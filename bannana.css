@@ -1,0 +1,33 @@
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    background-color: rgb(250, 242, 134);
+}
+
+ .heading p {
+    color: black;
+    background-color: darkgoldenrod;
+    height: 8rem;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 30px;
+    border-radius: 20px;
+}
+
+.inp{
+    font-size: large;
+    color: dimgray;
+    font-weight: bolder;
+   
+
+}
+
+.txt{
+    margin: auto;
+    background-color:rgb(207, 188, 16);
+}
+.tra
+{
+    border: 2px solid black;
+    height: 145px;
+    max-width: 742px;
+}
