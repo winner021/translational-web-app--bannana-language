@@ -1,6 +1,10 @@
 body{
-    font-family: 'Be Vietnam Pro', sans-serif;
-    background-color: rgb(250, 242, 134);
+    background-image: url("https://media.istockphoto.com/photos/bananas-on-blue-background-picture-id666476790?b=1&k=20&m=666476790&s=170667a&w=0&h=0o5ramTtcfbYyakqU05CTQsyhx9TK09DUKK-salSCQQ=");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    font-family: 'Source Code Pro', monospace;
 }
 
  .heading p {
@@ -15,7 +19,7 @@ body{
 
 .inp{
     font-size: large;
-    color: dimgray;
+    color: rgb(0, 0, 0);
     font-weight: bolder;
    
 
@@ -23,11 +27,33 @@ body{
 
 .txt{
     margin: auto;
-    background-color:rgb(207, 188, 16);
+    background-color:rgb(248, 224, 4);
 }
 .tra
 {
     border: 2px solid black;
     height: 145px;
     max-width: 742px;
+    background-color: rgb(224, 224, 33);
+}
+
+button
+{
+    background-color: rgb(255, 251, 2);
+    width: 6rem;
+    height: 2rem;
+    font-size: large;
+    font-weight: bold;
+    padding:00.2rem ;
+    margina
+}
+
+footer{
+    background-color: yellow;
+    height: 8rem;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 1rem;
+    margin-top: 1rem;
+
 }

@@ -1,3 +1,4 @@
+alert("You are only allowed to translate 5 times so use it accordingly ")
 var btnTranslate=document.querySelector("#Translate");;
 var inpText= document.querySelector("#inp-text");
 
